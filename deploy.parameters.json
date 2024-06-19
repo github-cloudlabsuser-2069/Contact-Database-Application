@@ -6,13 +6,13 @@
       "value": "contact-database-app-06-19"
     },
     "appServicePlanName": {
-      "value": "contact-database-server-plan"
+      "value": "contact-database-server-plan-06-19"
     },
     "sqlServerName": {
-      "value": "contact-database-server-sql"
+      "value": "contact-database-server-sql-06-19"
     },
     "sqlDatabaseName": {
-      "value": "contact-database"
+      "value": "contact-database-06-19"
     },
     "location": {
       "value": "eastus"
