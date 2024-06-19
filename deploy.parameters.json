@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "webAppName": {
+      "value": "contact-database-application"
+    },
+    "appServicePlanName": {
+      "value": "contact-database-server-plan"
+    },
+    "sqlServerName": {
+      "value": "contact-database-server-sql"
+    },
+    "sqlDatabaseName": {
+      "value": "contact-database"
+    },
+    "location": {
+      "value": "eastus"
+    }
+  }
+}
