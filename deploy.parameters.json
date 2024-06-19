@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "contact-database-app"
+      "value": "contact-database-app-06-19"
     },
     "appServicePlanName": {
       "value": "contact-database-server-plan"
